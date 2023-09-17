@@ -385,6 +385,7 @@
 'no match': 'aucune correspondance',
 'no package selected': 'no package selected',
 'no permission to uninstall "%s"': 'no permission to uninstall "%s"',
+'No ticket_storage.txt found under /private folder': 'No ticket_storage.txt found under /private folder',
 'Node:': 'Node:',
 'Not Authorized': 'Pas autorisé',
 'Not supported': 'Pas supporté',
